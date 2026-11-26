@@ -1,0 +1,1802 @@
+[
+  {
+    "text": "Brunson era 2023: 97.75 (26th) 2024: 95.96 (30th) 2025: 97.64 (26th) 2026: 97.71 (25th) They have always been a slow team, at or near 30th. But this year is an obscenely slow pace of play",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6329,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6329,
+      "hot_take": 0.2479,
+      "reaction": 0.1192
+    }
+  },
+  {
+    "text": "He wasn't Melo but he's better than he's gonna be remembered. 22 point scorer for a decade, one of the most consistent 3 point shooters during that stretch. Not a #1 guy and maybe not even a #2 but he has a career to be proud of.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5164,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.5164,
+      "hot_take": 0.2936,
+      "reaction": 0.19
+    }
+  },
+  {
+    "text": "Pepperidge Farm remembers \"KD's Southern Cuisine\" opening then closing almost immediately when he went to the Warriors Let Chet cook, bar is on the floor here",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4178,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2693,
+      "hot_take": 0.3128,
+      "reaction": 0.4178
+    }
+  },
+  {
+    "text": "\u201cThe one being more mature about everything is just trying to make JB look bad\u201d is a hilarious spin",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4457,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2499,
+      "hot_take": 0.3044,
+      "reaction": 0.4457
+    }
+  },
+  {
+    "text": "Bout time these 2 teams played comp. Hope they enjoyed their 3 month preseason",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.714,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.24,
+      "hot_take": 0.714,
+      "reaction": 0.046
+    }
+  },
+  {
+    "text": "Who gives a fuck. Ex-nba stars gossip worse than any group of teenagers",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5415,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.1504,
+      "hot_take": 0.308,
+      "reaction": 0.5415
+    }
+  },
+  {
+    "text": "I didn't say it doesn't count. I was providing context as to why they lost. It was definitely a bad loss. They also went up against us and the Lakers. Their 0-4 record doesn't really tell the full story. Same as the Mavs great record against the East",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5863,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.5863,
+      "hot_take": 0.2915,
+      "reaction": 0.1222
+    }
+  },
+  {
+    "text": "Yeah I don\u2019t blame random people for not watching Magic - Wizards on a Sunday night, but this was just one of those games lol. Not a lot you can do when a team is shooting that well on high volume. Sometimes NBA teams just catch fire.",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.4469,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.2658,
+      "hot_take": 0.4469,
+      "reaction": 0.2874
+    }
+  },
+  {
+    "text": "He literally just tried to shake his hand before the game and Brown acted like a child",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.4086,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.3153,
+      "hot_take": 0.4086,
+      "reaction": 0.2761
+    }
+  },
+  {
+    "text": "This is what happens when you make contracts fixed percentages not knowing how much the cap will go, maybe back when player expected pay raises was steady but with how much the cap is now that percentage is too high",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.4704,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.2841,
+      "hot_take": 0.4704,
+      "reaction": 0.2455
+    }
+  },
+  {
+    "text": "Not really. He is taking less shots. He has done this before. This is how they won 60 games a couple years back.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8047,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.8047,
+      "hot_take": 0.1697,
+      "reaction": 0.0256
+    }
+  },
+  {
+    "text": "Franz and Bane are both very good players, and they're the reason why Orlando won game 4 in spite of Paolo shooting 4-18.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.4756,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4756,
+      "hot_take": 0.3156,
+      "reaction": 0.2088
+    }
+  },
+  {
+    "text": "There are some NBA player podcasts that are funny. There are some player podcasts that are insightful. There are some that are both. The Cousins/Parsons one is neither.",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.6842,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0996,
+      "hot_take": 0.2162,
+      "reaction": 0.6842
+    }
+  },
+  {
+    "text": "Yeah, I\u2019m really looking forward to seeing more Paolo in the new offense. Basically waiting until like\u202610 games deep in his return before I get bent out of shape with anything that happens this season.",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.6983,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.1726,
+      "hot_take": 0.6983,
+      "reaction": 0.1291
+    }
+  },
+  {
+    "text": "And that's reflective in his drives per game which is also down.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.4911,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1972,
+      "hot_take": 0.4911,
+      "reaction": 0.3117
+    }
+  },
+  {
+    "text": "Bones isn't a lazy defender, he's just bad. Effort gets you pretty far in the regular season.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.5513,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.5513,
+      "hot_take": 0.3289,
+      "reaction": 0.1198
+    }
+  },
+  {
+    "text": "Pelicans have the worst GMs in the last 20 years and its not even close. Every role player from the AD+Jrue teams was awful, most never got another NBA deal. Griffin built around his once-a-decade non-shooter prospect with...Eric Bledsoe and Steven Adams. Guy had no idea the 3 pt revolution had happened. Now this...the insane trade for Queen. Not knowing how the vet signing rules worked. Constructing a roster full of guys who arent good, dont fit together, and have terrible attitudes. Bensons not the worst owner in sports but shes the dumbest",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.4372,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4372,
+      "hot_take": 0.3246,
+      "reaction": 0.2382
+    }
+  },
+  {
+    "text": "I'm getting annoyed with these Thunder posts. The team is down to playing legit bums heavy minutes and people are acting like it's big news when they drop some games. It's probably a nothingburger. They'll either get relatively healthy and be just fine or continue to have the worst injury luck we've seen in a good while. Either way, not much to be done about it.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.913,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0309,
+      "hot_take": 0.913,
+      "reaction": 0.0561
+    }
+  },
+  {
+    "text": "Grizz are like 2nd or third in 3pt% and 1st in FT% and I honestly have never seen numbers like that in this franchise's history",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.3877,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.3802,
+      "hot_take": 0.3877,
+      "reaction": 0.2321
+    }
+  },
+  {
+    "text": "We all know draymond spams cheapshots . But SOFT AS CHARMIN from the Frenchman",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5108,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1118,
+      "hot_take": 0.3774,
+      "reaction": 0.5108
+    }
+  },
+  {
+    "text": "I don't think he even remotely comparable to someone like Steph Curry. The volume is just way too low.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4296,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.1812,
+      "hot_take": 0.4296,
+      "reaction": 0.3892
+    }
+  },
+  {
+    "text": "Simmons with the easily disproven narrative attempt. The Celtics' schedule has been brutal and they still are ahead of last season's pace.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.6577,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.3128,
+      "hot_take": 0.6577,
+      "reaction": 0.0295
+    }
+  },
+  {
+    "text": "Spurs made it to the finals playing through a series of injured teams and then got CLAPPED the first time they played an even sort of healthy team. CLAPPED. 5 games. Bitch made. But hey, one of the easiest schedules to start the season has you guys rolling even though you lost to the best teams you\u2019ve played, so you should feel good about that!",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4639,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.4639,
+      "hot_take": 0.4565,
+      "reaction": 0.0796
+    }
+  },
+  {
+    "text": "What they need is a Fred Vanvleet. A calm point guard who can set the table.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.5506,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0572,
+      "hot_take": 0.5506,
+      "reaction": 0.3922
+    }
+  },
+  {
+    "text": "Wizards and clippers are 2 and 3, fun idea of a stat but it doesn't seem all that meaningful especially early in the season",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.7129,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.1407,
+      "hot_take": 0.7129,
+      "reaction": 0.1464
+    }
+  },
+  {
+    "text": "Danny Green is terrible. Farmar was better, not sure why he only got one shot (so far)",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4532,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.2178,
+      "hot_take": 0.4532,
+      "reaction": 0.329
+    }
+  },
+  {
+    "text": "This is what small sample sizes look like. Mo Wagner is currently shooting 64% from 3 this year.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.3732,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.3612,
+      "hot_take": 0.3732,
+      "reaction": 0.2656
+    }
+  },
+  {
+    "text": "We need to acknowledge that Mazzulla has not been given the player personnel to play differently. Fans can yell and scream at the team to go to the hoop, but unfortunately you need the players that can do that. The only player that can reliably get to the hoop in one on one situations is Jayson Tatum and that\u2019s just the reality of the situation.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.8718,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.108,
+      "hot_take": 0.8718,
+      "reaction": 0.0202
+    }
+  },
+  {
+    "text": "He hasn't shot above league average from 3 since 23-24 and it's not like he's taking a ton of shots either.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6574,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6574,
+      "hot_take": 0.2327,
+      "reaction": 0.1099
+    }
+  },
+  {
+    "text": "I also feel like the \u201churr durr they took too many threes\u201d narrative is kind of glossing over the other general horrendous play\u2026 like nobody is talking about how the Celtics gave up TWENTY FUCKING OFFENSIVE BOARDS to one of the smallest lineups in the league who is begging for competent big man play",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.8637,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0858,
+      "hot_take": 0.8637,
+      "reaction": 0.0505
+    }
+  },
+  {
+    "text": "It's funny because Jaylens probably the most performative player in the NBA.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.9018,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0448,
+      "hot_take": 0.9018,
+      "reaction": 0.0534
+    }
+  },
+  {
+    "text": "I'd put in Marion way way way before Draymond Draymond is like Michael Cooper level player",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4856,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1144,
+      "hot_take": 0.4,
+      "reaction": 0.4856
+    }
+  },
+  {
+    "text": "Worked for you once, 7 years ago, and an acl tear later and a meniscus tear later. Hence why I said it\u2019s delusional lol, he\u2019s not even close to the same player anymore and has aged damn near a decade",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4651,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1558,
+      "hot_take": 0.3791,
+      "reaction": 0.4651
+    }
+  },
+  {
+    "text": "Matas still absolutely has all star potential. He\u2019s gotten stronger, more skilled, and has a great work ethic. Only reason for a regression this year is purely mental and too many changing pieces around him.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.5057,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.2061,
+      "hot_take": 0.5057,
+      "reaction": 0.2882
+    }
+  },
+  {
+    "text": "id gladly take dunn considering we have no one left who can dribble :(",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4782,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1377,
+      "hot_take": 0.3841,
+      "reaction": 0.4782
+    }
+  },
+  {
+    "text": "Is he opening a restaurant in the matrix? What is bro wearing lol",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4689,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.237,
+      "hot_take": 0.294,
+      "reaction": 0.4689
+    }
+  },
+  {
+    "text": "Zion on any contender as no higher than the third option, would be insane",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4062,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.2165,
+      "hot_take": 0.3773,
+      "reaction": 0.4062
+    }
+  },
+  {
+    "text": "It\u2019s very annoying as a viewer but this has to be the explanation, and I get it. Team full of (pretty solid!) role players with no stars is such a miserable watch tho. Hopefully they can get something for these guys then pivot to youth in the second half.",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.9037,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0373,
+      "hot_take": 0.9037,
+      "reaction": 0.059
+    }
+  },
+  {
+    "text": "Sengun is better even though the dude seems like a complete dick head. He\u2019s also a nightmare match up for Wemby",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.6253,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0601,
+      "hot_take": 0.6253,
+      "reaction": 0.3145
+    }
+  },
+  {
+    "text": "historically, around 6% of All NBA selection played less than 65 games. around 4% of All NBA selection played less than 60 games. We are talking about 3-4 extra players (out of 150 slots) being eligible and selected for All NBA every decade, by lowering from 65 to 60. is 3-4% \"very few\"? I honestly dont know...",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5189,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.5189,
+      "hot_take": 0.4564,
+      "reaction": 0.0247
+    }
+  },
+  {
+    "text": "He's a 2 time all star at age 23 and he got snubbed 1 season. There is no world where he is only the 70th best player. He's closer to being the 7th best player than the 70th.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6455,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6455,
+      "hot_take": 0.2512,
+      "reaction": 0.1032
+    }
+  },
+  {
+    "text": "who takes advice from boogie lmao? man was ejected more times than a jack in the box.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.446,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2413,
+      "hot_take": 0.3127,
+      "reaction": 0.446
+    }
+  },
+  {
+    "text": "BBRef HOF Monitor does not take international play into consideration in its' calculation. Manu probably would have gotten in if he didn't play a single game in the NBA.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.7179,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.2584,
+      "hot_take": 0.7179,
+      "reaction": 0.0237
+    }
+  },
+  {
+    "text": "Not trying to be a downer, but I had this injury and surgery at 24, and it was a year recovery. You can\u2019t even lift 10 pounds the first month for fear of internal bleeding. There\u2019s a chance this may be his career tbh.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4288,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.4288,
+      "hot_take": 0.3921,
+      "reaction": 0.1791
+    }
+  },
+  {
+    "text": "Reaves has had the most efficient shooting career for a guard ever. Higher TS% than Steph, Luke Kennard, Korver, SGA. Is the 2nd option on the best offense in the league. He was playing at an All-NBA level last season until he got injured in the March. He\u2019s making All Star and an All-NBA team this year.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5645,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.5645,
+      "hot_take": 0.2654,
+      "reaction": 0.1702
+    }
+  },
+  {
+    "text": "Sounds like he can't win every time with bench guys and two way players. Not a lot of starting level players playing for OKC rn. Last game OKC started Kenrich Williams, Micah Peavy, and Jared Mccain, firmly bench guys and a two way player. Ajay Mitchell could be a starting level player but it's very much not a certain thing who also started.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.4488,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4488,
+      "hot_take": 0.3192,
+      "reaction": 0.2319
+    }
+  },
+  {
+    "text": "You can\u2019t credibly call someone with his injury history the foundation of a franchise. He could be the primary scoring option on a playoff team if healthy, which is still great. But you can\u2019t expect to build anything sustainable around him. They have bigger holes, but it doesn\u2019t mean he\u2019s the answer",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4905,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.4905,
+      "hot_take": 0.3872,
+      "reaction": 0.1223
+    }
+  },
+  {
+    "text": "Tbf his efficiency is improving in recent games because he shooting more 3s and less midrange jumpers, he's never been an efficient midrange scorer plus the Celtics tend to do better when he's taking at least 10 3s a game historically.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.7723,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.7723,
+      "hot_take": 0.1643,
+      "reaction": 0.0633
+    }
+  },
+  {
+    "text": "Neither are the Cavs lol\u2026 I\u2019m not arguing the lakers are great, I\u2019m saying the Cavs are mid. And in a battle of two mid teams I lean the one with the top 3 player in the NBA right now",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4433,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4433,
+      "hot_take": 0.2969,
+      "reaction": 0.2598
+    }
+  },
+  {
+    "text": "Boogie Cousins? Interpreting someone trying to take the high road and squash a beef as performative? You don't say!",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.8071,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0408,
+      "hot_take": 0.1521,
+      "reaction": 0.8071
+    }
+  },
+  {
+    "text": "Can\u2019t wait until the day people stop treating this team sport like it\u2019s boxing",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.7123,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.035,
+      "hot_take": 0.2527,
+      "reaction": 0.7123
+    }
+  },
+  {
+    "text": "He always gets one of those after a white hot start. It's tradition at this point",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.3914,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2462,
+      "hot_take": 0.3624,
+      "reaction": 0.3914
+    }
+  },
+  {
+    "text": "It\u2019s always been a 2k pipe dream build. Like on paper it\u2019s great, kinda like dame and Giannis. But when you actually put those guys on the court next to each other there just isn\u2019t any dynamic team basketball happening whatsoever.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.7494,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0709,
+      "hot_take": 0.7494,
+      "reaction": 0.1797
+    }
+  },
+  {
+    "text": "AD missed one playoff series due to a shortened offseason & after playing in a championship the prior season. He\u2019s never missed time in the playoffs outside of that",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6761,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6761,
+      "hot_take": 0.2082,
+      "reaction": 0.1157
+    }
+  },
+  {
+    "text": "Not putting enough respect on how shit my kings are. We are setting records.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5165,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0374,
+      "hot_take": 0.4461,
+      "reaction": 0.5165
+    }
+  },
+  {
+    "text": "Yao would definitely have more assists and ppg (some from 3s) if he played today instead of two decades ago",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.6697,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6697,
+      "hot_take": 0.2235,
+      "reaction": 0.1068
+    }
+  },
+  {
+    "text": "To me elite playmakers can make passes that nobody else can and can create opportunities that nobody else would see. It's a small group that Tatum doesn't fit into. It's not a knock on him, it's just people using the word elite way too loosely",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.525,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1843,
+      "hot_take": 0.525,
+      "reaction": 0.2907
+    }
+  },
+  {
+    "text": "If a NBA player REALLY locked into learning the hook shot, they'd be unstoppable",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4157,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.2057,
+      "hot_take": 0.3785,
+      "reaction": 0.4157
+    }
+  },
+  {
+    "text": "They kicked him out because he SUGGESTED Kawhi swap assignments to save energy for offense. Such an insane overreach from cp3! How could he do that!",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.7502,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0568,
+      "hot_take": 0.1929,
+      "reaction": 0.7502
+    }
+  },
+  {
+    "text": "Ayesha punching the air rn. Right when she is becoming a roku movie star lol",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4537,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2455,
+      "hot_take": 0.3008,
+      "reaction": 0.4537
+    }
+  },
+  {
+    "text": "Number of NBA level players: a lot Number of people who won the dunk contest 3 times in a row: 1 What McClung did is way more impressive",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.453,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.453,
+      "hot_take": 0.2973,
+      "reaction": 0.2498
+    }
+  },
+  {
+    "text": "Luka was carrying teams with less then that & yall didn\u2019t go this hard for him",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.5558,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0497,
+      "hot_take": 0.3945,
+      "reaction": 0.5558
+    }
+  },
+  {
+    "text": "Nah. Considering all the B2Bs and the league being better overall, in the small sample size comparison Tatum is better than Brown was last season.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.8035,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.8035,
+      "hot_take": 0.1807,
+      "reaction": 0.0158
+    }
+  },
+  {
+    "text": "The league will likely settle for having two, a domestic face (Flagg) and an international heel (Wemby)",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.3662,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.351,
+      "hot_take": 0.3662,
+      "reaction": 0.2828
+    }
+  },
+  {
+    "text": "I was told he was falling off and the new rules exposed him. It\u2019s hilarious how bad NBA discourse has become.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5546,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1179,
+      "hot_take": 0.3275,
+      "reaction": 0.5546
+    }
+  },
+  {
+    "text": "genuinely insane take. Aaron Gordan is a completely different player now, MPJ who is incredibly good is gone, Jokic is a very different player he dropped his weight significantly to improve his defense at a very large expense on his offense. He is unable to handle double big's well now.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6223,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.6223,
+      "hot_take": 0.2707,
+      "reaction": 0.107
+    }
+  },
+  {
+    "text": "10 more years of stupid draymond takes are coming. Buckle up.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4434,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2129,
+      "hot_take": 0.3437,
+      "reaction": 0.4434
+    }
+  },
+  {
+    "text": "Yeah it\u2019s just not reality. I\u2019m a diehard Celtics fan and always loved Jaylen but the way he played last year drove me crazy. It was so egocentric, stat padding bad teams, not moving the ball. The whole \u201cbest 2 way guy in the league\u201d discourse was such fucking nonsense. Last year\u2019s Celtics were by far a Mazzulla story more than anything else",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.5619,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.084,
+      "hot_take": 0.5619,
+      "reaction": 0.354
+    }
+  },
+  {
+    "text": "After last season I thought Ajay Mitchell was a lot better than he was. This season he has been selfish, doesn\u2019t shoot 3s consistently or at volume instead driving into a congested paint when he has open 3s and struggles massively against good defenses that don\u2019t just let him drive onto his left hand. But atleast he is a pretty solid defender.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8692,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.8692,
+      "hot_take": 0.1179,
+      "reaction": 0.0129
+    }
+  },
+  {
+    "text": "Thats not what happened. They cut Paul and then lost another 5 games. They started winning when Kawhi came back",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.3807,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.3807,
+      "hot_take": 0.3791,
+      "reaction": 0.2402
+    }
+  },
+  {
+    "text": "Bill Simmons won't be able to trade him for multiple 1st round picks to OKC anymore. \ud83d\ude14",
+    "true": "reaction",
+    "pred": "analysis",
+    "confidence": 0.7491,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.7491,
+      "hot_take": 0.2125,
+      "reaction": 0.0383
+    }
+  },
+  {
+    "text": "Eddie calling him a part-time podcaster who only clocks in when Steph is playing is diabolical.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.6357,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0535,
+      "hot_take": 0.3108,
+      "reaction": 0.6357
+    }
+  },
+  {
+    "text": "Wemby bombs it with a one-star review on yelp in its grand opening",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5621,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0875,
+      "hot_take": 0.3504,
+      "reaction": 0.5621
+    }
+  },
+  {
+    "text": "Are you serious? Carter wasnt on offence. Shai wasnt looking at him. That shit was dirty. Mccain got hit from behind. That shit was dirty. Dort wasnt trying to take out his knees. He bumped him with his hip. Yes dirty. Not trying to hurt him though.",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.3948,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.2726,
+      "hot_take": 0.3948,
+      "reaction": 0.3326
+    }
+  },
+  {
+    "text": "The west had a better record against the east last year for the 24th time in 27 years. Pretty insane stat. Who won the chip is largely irrelevant. Both conferences generally have at least a couple teams in the contender tier, but east vs west record usually indicates which conference is deeper, and that conference is pretty much always the west. Things will balance out a bit this season as we get a bigger sample size, but it seems like the west is once again the deeper conference despite preseason predictions",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8754,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.8754,
+      "hot_take": 0.102,
+      "reaction": 0.0226
+    }
+  },
+  {
+    "text": "I think you could give the same criticism to Kerr. Take away 3 of the best shooters to ever play the game and replace them with average NBA talent would he go .500? Budenholzer coached Atlanta to 60 wins with no all nba players. He won a championship with one. Has Lue even coached a team without an all NBA caliber player before this year?",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6577,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6577,
+      "hot_take": 0.2365,
+      "reaction": 0.1059
+    }
+  },
+  {
+    "text": "it\u2019s crazy that a team can actually have fun playing professional basketball AND win games in minnesota. i remember how fun the KAT/Wiggs/LaVine years could be but we were like 21-61 lol",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4845,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1402,
+      "hot_take": 0.3753,
+      "reaction": 0.4845
+    }
+  },
+  {
+    "text": "lmao has there ever been a bigger fall off for a 24 year old rookie?",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5302,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1178,
+      "hot_take": 0.352,
+      "reaction": 0.5302
+    }
+  },
+  {
+    "text": "I would say that Chris Bosh was a much better player overall than Evan Mobley. I think the comparison with Kevin Love is more apt. I would say that Mobley is roughly equivalent to K Love. Where Love was a primarily offense-first player, Mobley is a primarily defense-first player. But I would put them at roughly the same talent level.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.8947,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.8947,
+      "hot_take": 0.0873,
+      "reaction": 0.0181
+    }
+  },
+  {
+    "text": "I a lot of times think on/off is overrated but Wemby +41.6 is fucking insane.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.441,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.1613,
+      "hot_take": 0.3977,
+      "reaction": 0.441
+    }
+  },
+  {
+    "text": "Once I saw that clip of him practicing jumpers in the club it all made sense",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5039,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.1581,
+      "hot_take": 0.338,
+      "reaction": 0.5039
+    }
+  },
+  {
+    "text": "He has a guaranteed contract until 2029, he can sign an extension next year or the year after if he trust his body to perform. It'd make no sense whatsoever to sign an extension this summer, and he knows it.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.6385,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.2787,
+      "hot_take": 0.6385,
+      "reaction": 0.0828
+    }
+  },
+  {
+    "text": "Yeah, Wilt was not really a superstar in two sports, only basketball. Had decent results in track and field in college, but those are overrated too. Bo Jackson (all-star in two sports), Jim Brown (HoF in football and lacrosse) and Vsevolod Bobrov (goal per game winger in soccer and Olympic champion in hockey) are three examples of real multi-sports talents I can think of from the top of my head. Jackson is an exception because he did it in a later much harder and more commercialized leagues.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6074,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.6074,
+      "hot_take": 0.2719,
+      "reaction": 0.1206
+    }
+  },
+  {
+    "text": "Harden being available to play in the games is a huge difference compared to garland always being in street clothes",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.3741,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.3026,
+      "hot_take": 0.3741,
+      "reaction": 0.3233
+    }
+  },
+  {
+    "text": "There\u2019s not a snowballs chance in hell they\u2019re a lottery team.",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4174,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2247,
+      "hot_take": 0.3579,
+      "reaction": 0.4174
+    }
+  },
+  {
+    "text": "I think this is an interesting metric because in theory the highest rates should correspond to extremes in both directions. Stars tend to sit when their team either has no chance to win, or when their team can easily win without them, but tend to play against mediocre teams. What use is a metric for teams that are \"good but not scary\"? idk.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.7951,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.1708,
+      "hot_take": 0.7951,
+      "reaction": 0.0341
+    }
+  },
+  {
+    "text": "And when they played top 4 seeds in either conference I think they went 3-11",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.3809,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.3809,
+      "hot_take": 0.3779,
+      "reaction": 0.2412
+    }
+  },
+  {
+    "text": "I'm not even sure Holidays pushed - it looks like McCain may have had his arm clamped.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.6155,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0623,
+      "hot_take": 0.6155,
+      "reaction": 0.3222
+    }
+  },
+  {
+    "text": "JB has been a baby about the whole thing but Cousins nailed it. Tatum been corny forever this shouldn\u2019t be surprising",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.6133,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0354,
+      "hot_take": 0.3513,
+      "reaction": 0.6133
+    }
+  },
+  {
+    "text": "Bane is averaging 19 a game and making over 4 3's a game on pretty elite efficiency. The contract isn't great but it's also not terrible for that kinda production.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.4337,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4337,
+      "hot_take": 0.3472,
+      "reaction": 0.2191
+    }
+  },
+  {
+    "text": "I wish I could upvote this post twice. Shamgod deserves all the respect and flowers in the world",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5509,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.113,
+      "hot_take": 0.3361,
+      "reaction": 0.5509
+    }
+  },
+  {
+    "text": "Wolves really benefitted from peoples undeserved and unhinged hatred for Lamelo and Kuminga",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4193,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.2329,
+      "hot_take": 0.3478,
+      "reaction": 0.4193
+    }
+  },
+  {
+    "text": "tatum wasn't even the fastest achilles return last season alone. dru smith of the heat was a full go game 1 of the pre-season after tearing his achilles christmas eve the year before",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8642,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.8642,
+      "hot_take": 0.1202,
+      "reaction": 0.0156
+    }
+  },
+  {
+    "text": "Derrick White lowkey been ass since the beginning of last year.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.5149,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.044,
+      "hot_take": 0.5149,
+      "reaction": 0.4411
+    }
+  },
+  {
+    "text": "Apples and oranges. Giddey was trying to pass to a completely different guy in this clip. That shouldn\u2019t be an assist.",
+    "true": "analysis",
+    "pred": "reaction",
+    "confidence": 0.5756,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0494,
+      "hot_take": 0.3749,
+      "reaction": 0.5756
+    }
+  },
+  {
+    "text": "Amongst players who have played at least 5 games he's 12th in rim assists per game.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.4905,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4905,
+      "hot_take": 0.2981,
+      "reaction": 0.2114
+    }
+  },
+  {
+    "text": "SGA really is the boogeyman for most of this place & that is absolutely hilarious",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4831,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2158,
+      "hot_take": 0.3011,
+      "reaction": 0.4831
+    }
+  },
+  {
+    "text": "Is it any worse than this years line up? And he\u2019s 4-12 right now. If he\u2019s such a good coach why isn\u2019t he at least .500",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.6101,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.3195,
+      "hot_take": 0.6101,
+      "reaction": 0.0705
+    }
+  },
+  {
+    "text": "No, because Jordan's first game back from retirement got 35m viewers, those are finals type numbers.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.532,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.4252,
+      "hot_take": 0.532,
+      "reaction": 0.0428
+    }
+  },
+  {
+    "text": "Spo finds rotation players out of nothing basically every year. Kerr is not very good at doing that",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4775,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.4775,
+      "hot_take": 0.3797,
+      "reaction": 0.1428
+    }
+  },
+  {
+    "text": "His team looked like they wanted to quit and go home here. Why do they almost look disappointed?",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5559,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1209,
+      "hot_take": 0.3232,
+      "reaction": 0.5559
+    }
+  },
+  {
+    "text": "expected %s are lower. It\u2019s enough that if teams shot the expected % from 3 their defence goes from 23rd to 13th.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8659,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.8659,
+      "hot_take": 0.1079,
+      "reaction": 0.0262
+    }
+  },
+  {
+    "text": "But he hasn\u2019t. His deepest playoff run came from playing alongside a rejuvenated Chris Paul who finished 5th in MVP voting (Booker received no votes) primarily running the shooting guard. In the time since Paul\u2019s leave, the Suns have gotten swept twice and failed to make the playoffs once, and I think a lot of Suns fans will lament their lack of a true point guard in the past few seasons",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8782,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.8782,
+      "hot_take": 0.11,
+      "reaction": 0.0117
+    }
+  },
+  {
+    "text": "Stretching Lillard\u2019s contract was also one of the most mindboggling decisions in recent memory",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.3984,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2671,
+      "hot_take": 0.3346,
+      "reaction": 0.3984
+    }
+  },
+  {
+    "text": "This guy has been all about money lately. God damn, how about you get back to your old superstar form first. Indy\u2019s 5-10.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5739,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0457,
+      "hot_take": 0.3804,
+      "reaction": 0.5739
+    }
+  },
+  {
+    "text": "Every Miami Heat team has these players. Remember the name Ryan Conwell, starting now. The common denominator is Erik mothafuckin Spoelstra",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.5895,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.5895,
+      "hot_take": 0.2569,
+      "reaction": 0.1536
+    }
+  },
+  {
+    "text": "Someone should if the coach can\u2019t do it. RJ Barrett should\u2019ve been benched sometime in the 3rd q after repeatedly showing that his head is not in the game. Recent losses after blowing double digit leads are as much a coaching issue as a lack of shooting consistency or a lack of a decent point guard.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.7035,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.7035,
+      "hot_take": 0.2113,
+      "reaction": 0.0852
+    }
+  },
+  {
+    "text": "Bam & Kobe in the same headline. Alright Reddit, do your thing.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5933,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.125,
+      "hot_take": 0.2817,
+      "reaction": 0.5933
+    }
+  },
+  {
+    "text": "Around the league, there aren't many solid defenders at the 2 who also have an elite offensive skill. It's what makes him super valuable.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.5704,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.5704,
+      "hot_take": 0.4078,
+      "reaction": 0.0217
+    }
+  },
+  {
+    "text": "Stockton was definitely built different durability wise, but the offense Jazz played was also very friendly to not over stressing the perimeter bodies. Defensively speaking, Stockton also wasn\u2019t chasing after quick guards, he was planted on the shooter or played help df in the post. Not many guards are put in those exact scenarios nowadays.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.4388,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4388,
+      "hot_take": 0.3438,
+      "reaction": 0.2174
+    }
+  },
+  {
+    "text": "27/10/5b with typical divine defense. But still, I get your point. In a sense, Luka is being screwed by his own consistency. Averaging 28 in year 2 and not dipping thereafter will do that to you",
+    "true": "analysis",
+    "pred": "reaction",
+    "confidence": 0.3647,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.3003,
+      "hot_take": 0.335,
+      "reaction": 0.3647
+    }
+  },
+  {
+    "text": "He put his hand under the ball with the step just before the 3pt line, then he takes 3 steps. It's a travel, but it's not 2 steps and it's not 6 steps either. It's 3 steps according to the NBA rules.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.7759,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.7759,
+      "hot_take": 0.1929,
+      "reaction": 0.0311
+    }
+  },
+  {
+    "text": "Trade your entire roster for Wemby and then trade Wemby for a haul of picks and players? That\u2019s honestly brilliant",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.5113,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0555,
+      "hot_take": 0.5113,
+      "reaction": 0.4332
+    }
+  },
+  {
+    "text": "To call Luka unwatchable is a bit much. He\u2019s very good with the ball in his hands and way more active than Harden was during his dominance. The bitching at this point is an entertaining hate-watch.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.8503,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.1175,
+      "hot_take": 0.8503,
+      "reaction": 0.0323
+    }
+  },
+  {
+    "text": "Happy to see he landed on a contender after getting rug-pulled by the Mavs. (Nico fucked over far more than just the fans.)",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4225,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2861,
+      "hot_take": 0.2915,
+      "reaction": 0.4225
+    }
+  },
+  {
+    "text": "He\u2019s not worth 2 wins over the course of an 82 game season, much less 15 games of one.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.9009,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.9009,
+      "hot_take": 0.0797,
+      "reaction": 0.0194
+    }
+  },
+  {
+    "text": "giannis has a lot of gather steps that drive people nuts but it's always spinning as his palm is to the side. It looks like a travel but completely legal.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.4544,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.2497,
+      "hot_take": 0.4544,
+      "reaction": 0.296
+    }
+  },
+  {
+    "text": "Thats why you keep jalen brown, 2 punch combo is always better. Even wemby cant play as the solo carry",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4153,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.2209,
+      "hot_take": 0.4153,
+      "reaction": 0.3638
+    }
+  },
+  {
+    "text": "Surpassed his idol\u2019s 81 and got on a 2k cover. He really is blessed",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.6898,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.066,
+      "hot_take": 0.2442,
+      "reaction": 0.6898
+    }
+  },
+  {
+    "text": "The more he talks the more lame he becomes. Hasn\u2019t played in a year, gets injured again, and now is talking 300 million contracts",
+    "true": "reaction",
+    "pred": "analysis",
+    "confidence": 0.5653,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.5653,
+      "hot_take": 0.3001,
+      "reaction": 0.1345
+    }
+  },
+  {
+    "text": "Look at the team Luka has around him. He is raising their floor. I am not saying Wemby isnt doing the same. The on/off stats speak for themselves. But the Lakers have been way better than most people thought they would be. Wemby or Luka is a coin flip, but I think the MVP voters would feel they owe Luka an MVP. Wemby has plenty of time to win one.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4962,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4962,
+      "hot_take": 0.3006,
+      "reaction": 0.2032
+    }
+  },
+  {
+    "text": "Was just thinking it\u2019s been a long time since someone did a 360 dunk during a game. Kobe and T-Mac used to do them every now and then during a game. Crazy to think about now",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.8857,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.023,
+      "hot_take": 0.0913,
+      "reaction": 0.8857
+    }
+  },
+  {
+    "text": "Tbf the Spurs schedule in the back half of the season is pretty nuts. Everyone should go look at it tbh, it\u2019s actually absurd and I wouldn\u2019t be surprised if it they don\u2019t win 60 games just because of that stretch.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4829,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.4829,
+      "hot_take": 0.3774,
+      "reaction": 0.1396
+    }
+  },
+  {
+    "text": "the same postups that Kerr ran for HB? don't forget that Kerr continued to run plays for HB when he shot 5/32 in G5-7 of the 2016 Finals",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.9409,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.9409,
+      "hot_take": 0.0389,
+      "reaction": 0.0202
+    }
+  },
+  {
+    "text": "Went from legendary rookie to Steph gravity merchant in like a week lol",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4517,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2359,
+      "hot_take": 0.3124,
+      "reaction": 0.4517
+    }
+  },
+  {
+    "text": "Yeah the Suns are better with one of the greatest field generals of all time at the helm, but Booker was still All-NBA 3rd team as the PG of the Suns in 2024 He\u2019s better as a SG, but he can still do both. Not all 2\u2019s can, and very few to his level",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8845,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.8845,
+      "hot_take": 0.0973,
+      "reaction": 0.0182
+    }
+  },
+  {
+    "text": "Lmao. Those are some great gather steps or whatever we wanna call em",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4988,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.114,
+      "hot_take": 0.3873,
+      "reaction": 0.4988
+    }
+  },
+  {
+    "text": "Hali is self aware, and clutch as hell. He understood his role and that his time will come. Love the way he come out of it",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.4776,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.1405,
+      "hot_take": 0.3819,
+      "reaction": 0.4776
+    }
+  },
+  {
+    "text": "One of the worst I\u2019ve ever seen. Ball never touched the court after about the half way line.",
+    "true": "reaction",
+    "pred": "analysis",
+    "confidence": 0.3808,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.3808,
+      "hot_take": 0.3383,
+      "reaction": 0.2809
+    }
+  },
+  {
+    "text": "he's just off-cycle rn, post christmas bron is gonna be a beast",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.9283,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0199,
+      "hot_take": 0.0518,
+      "reaction": 0.9283
+    }
+  },
+  {
+    "text": "Ok? Doesn't change the fact that Wembys defense is miles better",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4045,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.2621,
+      "hot_take": 0.3334,
+      "reaction": 0.4045
+    }
+  },
+  {
+    "text": "04 HS graduate. Hearing about LeBron WELL before my senior year, having him live up to the hype, AND he\u2019s still in the league, is so wild to me haha. Like how the hell does he still have knees and a spine?!",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.8745,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0229,
+      "hot_take": 0.1026,
+      "reaction": 0.8745
+    }
+  },
+  {
+    "text": "I wish that there would be a single game, just one where he would shut his yap and would just play without constant whining.",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.4198,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.311,
+      "hot_take": 0.4198,
+      "reaction": 0.2692
+    }
+  },
+  {
+    "text": "He has one of the all-time great slander nicknames in Day-To-Davis",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.564,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.3814,
+      "hot_take": 0.564,
+      "reaction": 0.0546
+    }
+  },
+  {
+    "text": "Is Kawhi the greatest scam artist in history? Hundreds of millions of dollars robbed with no repercussions lol. Genuinely the funniest NBA career arc ever",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.7956,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0421,
+      "hot_take": 0.1623,
+      "reaction": 0.7956
+    }
+  },
+  {
+    "text": "I actually think Scoot still has it in him to be a good NBA player. If he went to another team I think his chances are even better, given all the turmoil he\u2019s had here.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4939,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.4939,
+      "hot_take": 0.3603,
+      "reaction": 0.1458
+    }
+  },
+  {
+    "text": "The Jaylen brown trade was literally only due to the second apron. The front office doesnt beleive you can build a championship roster around 2 max guys that are not top 10 players..",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.4209,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.4209,
+      "hot_take": 0.3264,
+      "reaction": 0.2527
+    }
+  },
+  {
+    "text": "If you go by plus minus he\u2019s the best player on the team by a good bit. He\u2019s such an insanely skilled and physical defender and frequently puts himself in spots to get important but easy shots at the rim. Add in the multiple times per game he bails out a possession with a rebound or steal and it kinda just makes sense he raises the floor so much.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5396,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.5396,
+      "hot_take": 0.3487,
+      "reaction": 0.1117
+    }
+  },
+  {
+    "text": "He's gonna take 2 weeks off in Miami and come back averaging 25/8/8",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.928,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.928,
+      "hot_take": 0.042,
+      "reaction": 0.0301
+    }
+  },
+  {
+    "text": "shawn marion with his career average 2 assists is not moving the ball the way draymond does",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6645,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6645,
+      "hot_take": 0.2272,
+      "reaction": 0.1082
+    }
+  },
+  {
+    "text": "All that blubbering about being back on the basketball court by Hali and he is riding pine.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.799,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.0437,
+      "hot_take": 0.1573,
+      "reaction": 0.799
+    }
+  },
+  {
+    "text": "He was playing hurt through the playoffs but this season he still hasn't looked like he's really bounced back. Looks very slow on his feet and seems almost incapable of getting vertical. He's still a great dude and isn't awful by any means, but it feels like he's slid from being a great backup big to being a passable backup big and great hypothetical 3rd-stringer",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.505,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.505,
+      "hot_take": 0.3631,
+      "reaction": 0.1319
+    }
+  },
+  {
+    "text": "Definitely, if this drives him and helps him carry us to wins, hell, he should keep doing it, and honestly, I'm just excited to see how he responds today",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5002,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.0365,
+      "hot_take": 0.4632,
+      "reaction": 0.5002
+    }
+  },
+  {
+    "text": "Not true. Their schedule so far is one of the hardest ones especially with 4 road games within a week. These 4 road games cover Det, Atl, Mil, and Phx. The travel time is not short.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.7064,
+    "fold": 0,
+    "probs": {
+      "analysis": 0.2677,
+      "hot_take": 0.7064,
+      "reaction": 0.026
+    }
+  },
+  {
+    "text": "That's fair, the dunks get the highlights but you're absolutely correct, he's a good finisher at the rim regardless of dunk or layup. That being said, i don't think being in a more movement based offense will help much. It should, but he's not really shown good feel for when to cut, his passing isn't all that great, and part of his defensive problems is that he *doesn't* move. He ball watches a lot on both ends of the floor",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6932,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.6932,
+      "hot_take": 0.2219,
+      "reaction": 0.0849
+    }
+  },
+  {
+    "text": "The free throw point is the big one. It's not a lock or anything, but if you're hovering around 80% from the line, there's a good chance that you can extend your range out to the 3 point line. There's really only a handful of guys that were good 3 point shooters but brick layers at the line (aka the Bruce Bowen special).",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5241,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.5241,
+      "hot_take": 0.3706,
+      "reaction": 0.1053
+    }
+  },
+  {
+    "text": "by ESPN SOS: Spurs - 20th Houston - 6th Celtics - 24th Lakers - 14th 76ers - 18th",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.8162,
+    "fold": 2,
+    "probs": {
+      "analysis": 0.8162,
+      "hot_take": 0.1376,
+      "reaction": 0.0462
+    }
+  },
+  {
+    "text": "nobody should be concerned about LeBron. he's as reliable as any other player in the league when it truly matters. Embiid is a far far larger concern atp",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.5239,
+    "fold": 1,
+    "probs": {
+      "analysis": 0.2453,
+      "hot_take": 0.5239,
+      "reaction": 0.2308
+    }
+  },
+  {
+    "text": "That\u2019s because there are no other good teams except like the top 8",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4401,
+    "fold": 4,
+    "probs": {
+      "analysis": 0.3384,
+      "hot_take": 0.4401,
+      "reaction": 0.2215
+    }
+  },
+  {
+    "text": "Not just that. Don\u2019t forget the bucks second best player missed most of the season. Bucks getting the #1 season with Middleton missing 2/3 of his season while he was prime Middleton and Giannis not winning MVP was criminal.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5254,
+    "fold": 3,
+    "probs": {
+      "analysis": 0.5254,
+      "hot_take": 0.2796,
+      "reaction": 0.1951
+    }
+  }
+]

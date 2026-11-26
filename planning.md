@@ -92,3 +92,37 @@ I'd consider it *useful but not deployable* if it clears the accuracy bar but on
 - **Label stress-testing:** Give an LLM the three definitions and the edge-case rules, and ask for 8 posts that sit on the analysis ↔ hot_take and reaction ↔ hot_take boundaries. Any post I can't label cleanly with my rules means a definition needs tightening before more annotation.
 - **Annotation assistance (used):** Claude pre-labeled all 150 comments using the definitions above, and wrote a `HARD:` note on 21 borderline cases. Every row is tracked with `labeled_by = claude_prelabel_needs_review` until I personally re-read and confirm or correct it; I'll change that column once reviewed and disclose the workflow in the README's AI usage section.
 - **Failure analysis:** After evaluation, give the list of misclassified test comments (text, true label, predicted label, confidence) to an LLM and ask for recurring patterns — post length, sarcasm, stats inside emotional posts, a single label pair dominating the errors. I'll verify each suggested pattern by re-reading the examples myself and only report patterns that actually hold for most of the cited cases.
+
+---
+
+## Stretch Features Plan (written before starting them)
+
+The main evaluation showed the fine-tuned model at 0.565 test accuracy vs. 0.739 for the zero-shot baseline, with errors that looked style-driven. The 23-comment test set is too small to test patterns or calibration reliably, so the stretch work starts by getting more predictions.
+
+### Shared setup: 5-fold cross-validation
+- Re-train the tuned configuration 5 times with stratified 5-fold CV over all 150 comments (inside each fold, 15% of the training part is held out for best-epoch selection). Every comment gets exactly one **out-of-fold** prediction from a model that never saw it.
+- These 150 predictions are used **only** for the calibration and error-pattern stretch analyses. The headline test-set numbers in the README stay as they are.
+
+### 1. Confidence calibration
+- **Question:** does a higher-confidence prediction actually get it right more often?
+- **Method:** bin the 150 out-of-fold predictions by confidence, report accuracy per bin, the expected calibration error (ECE), and a reliability diagram (`calibration.png`).
+- **Success:** accuracy rises from the lowest-confidence bin to the highest, and ECE < 0.10. If the model is over- or under-confident, say which.
+
+### 2. Error pattern analysis
+- **Hypotheses**, taken from the test-set failures:
+  - **H1:** hot_takes that contain numbers or stat vocabulary get misread as analysis.
+  - **H2:** reactions without obvious internet-reaction markers (lol, lmao, caps, emoji, !, ?) get missed.
+  - **H3:** short comments (< 100 characters) are misclassified more often.
+- **Method:** measure each with simple text features over all 150 out-of-fold predictions, comparing error rates with vs. without the feature.
+- **Standard for reporting:** a pattern is "systematic" only if the gap holds on the full 150, not just on the 3–4 test examples it came from. Patterns that don't hold get reported as not holding.
+
+### 3. Deployed interface
+- **What:** a local Gradio web app (`app.py`): paste a comment, see the predicted label and the confidence for all three labels.
+- **Requirements:** it uses the final tuned model and includes example comments for the demo video.
+- **Done when:** it runs with one command documented in the README.
+
+### 4. Inter-annotator reliability
+- **Who:** a second **person** (not an AI) labels 30 comments independently.
+- **The sheet:** stratified (10 per label), shuffled, with my labels hidden. They get only the label definitions and decision rules from this doc.
+- **Analysis:** report percentage agreement and Cohen's kappa, plus a table of disagreements and which boundary each falls on.
+- **Status:** this can't be completed by AI. The sheet and the scoring script are prepared, and the results wait on a real second annotator.

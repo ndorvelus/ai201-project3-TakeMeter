@@ -1,0 +1,38 @@
+{
+  "bins": [
+    {
+      "bin": "0.00\u20130.45",
+      "n": 35,
+      "mean_confidence": 0.414,
+      "accuracy": 0.486,
+      "gap": 0.072
+    },
+    {
+      "bin": "0.45\u20130.55",
+      "n": 41,
+      "mean_confidence": 0.495,
+      "accuracy": 0.659,
+      "gap": 0.164
+    },
+    {
+      "bin": "0.55\u20130.65",
+      "n": 27,
+      "mean_confidence": 0.588,
+      "accuracy": 0.63,
+      "gap": 0.042
+    },
+    {
+      "bin": "0.65\u20131.00",
+      "n": 47,
+      "mean_confidence": 0.794,
+      "accuracy": 0.574,
+      "gap": -0.22
+    }
+  ],
+  "ece": 0.1379,
+  "mean_conf_correct": 0.596,
+  "mean_conf_wrong": 0.573,
+  "conf_correct_correlation": 0.069,
+  "overall_accuracy": 0.587,
+  "overall_mean_confidence": 0.586
+}

@@ -1,0 +1,52 @@
+{
+  "H1_stat_language": {
+    "hot_takes_with_stat_language": {
+      "n": 26,
+      "accuracy": 0.385,
+      "predicted_analysis": 0.538
+    },
+    "hot_takes_without": {
+      "n": 25,
+      "accuracy": 0.32,
+      "predicted_analysis": 0.2
+    },
+    "analysis_without_stat_language": {
+      "n": 7,
+      "accuracy": 0.429
+    },
+    "analysis_with_stat_language": {
+      "n": 44,
+      "accuracy": 0.75
+    }
+  },
+  "H2_reaction_markers": {
+    "reactions_with_markers": {
+      "n": 19,
+      "accuracy": 0.684
+    },
+    "reactions_without_markers": {
+      "n": 29,
+      "accuracy": 0.724,
+      "predicted_hot_take": 0.207
+    }
+  },
+  "H3_length": {
+    "short_lt_100_chars": {
+      "n": 54,
+      "accuracy": 0.574
+    },
+    "long_ge_100_chars": {
+      "n": 96,
+      "accuracy": 0.594
+    }
+  },
+  "error_pairs_true_to_pred": {
+    "hot_take->analysis": 19,
+    "hot_take->reaction": 14,
+    "analysis->hot_take": 13,
+    "reaction->hot_take": 11,
+    "reaction->analysis": 3,
+    "analysis->reaction": 2
+  },
+  "total_errors": 62
+}
