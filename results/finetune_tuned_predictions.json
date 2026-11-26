@@ -1,0 +1,255 @@
+[
+  {
+    "text": "Tbf his efficiency is improving in recent games because he shooting more 3s and less midrange jumpers, he's never been an efficient midrange scorer plus the Celtics tend to do better when he's taking at least 10 3s a game historically.",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.7322,
+    "probs": {
+      "analysis": 0.7322,
+      "hot_take": 0.1978,
+      "reaction": 0.07
+    }
+  },
+  {
+    "text": "The free throw point is the big one. It's not a lock or anything, but if you're hovering around 80% from the line, there's a good chance that you can extend your range out to the 3 point line. There's really only a handful of guys that were good 3 point shooters but brick layers at the line (aka the Bruce Bowen special).",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6068,
+    "probs": {
+      "analysis": 0.6068,
+      "hot_take": 0.3109,
+      "reaction": 0.0823
+    }
+  },
+  {
+    "text": "Happy to see he landed on a contender after getting rug-pulled by the Mavs. (Nico fucked over far more than just the fans.)",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5708,
+    "probs": {
+      "analysis": 0.1517,
+      "hot_take": 0.2776,
+      "reaction": 0.5708
+    }
+  },
+  {
+    "text": "I actually think Scoot still has it in him to be a good NBA player. If he went to another team I think his chances are even better, given all the turmoil he\u2019s had here.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4664,
+    "probs": {
+      "analysis": 0.3223,
+      "hot_take": 0.4664,
+      "reaction": 0.2113
+    }
+  },
+  {
+    "text": "All that blubbering about being back on the basketball court by Hali and he is riding pine.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5868,
+    "probs": {
+      "analysis": 0.1334,
+      "hot_take": 0.2798,
+      "reaction": 0.5868
+    }
+  },
+  {
+    "text": "Grizz are like 2nd or third in 3pt% and 1st in FT% and I honestly have never seen numbers like that in this franchise's history",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.4288,
+    "probs": {
+      "analysis": 0.2711,
+      "hot_take": 0.4288,
+      "reaction": 0.3001
+    }
+  },
+  {
+    "text": "That\u2019s because there are no other good teams except like the top 8",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4503,
+    "probs": {
+      "analysis": 0.2854,
+      "hot_take": 0.4503,
+      "reaction": 0.2642
+    }
+  },
+  {
+    "text": "Yeah, I\u2019m really looking forward to seeing more Paolo in the new offense. Basically waiting until like\u202610 games deep in his return before I get bent out of shape with anything that happens this season.",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.4165,
+    "probs": {
+      "analysis": 0.3671,
+      "hot_take": 0.4165,
+      "reaction": 0.2164
+    }
+  },
+  {
+    "text": "The west had a better record against the east last year for the 24th time in 27 years. Pretty insane stat. Who won the chip is largely irrelevant. Both conferences generally have at least a couple teams in the contender tier, but east vs west record usually indicates which conference is deeper, and that conference is pretty much always the west. Things will balance out a bit this season as we get a bigger sample size, but it seems like the west is once again the deeper conference despite preseason predictions",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.6441,
+    "probs": {
+      "analysis": 0.6441,
+      "hot_take": 0.2696,
+      "reaction": 0.0864
+    }
+  },
+  {
+    "text": "Yao would definitely have more assists and ppg (some from 3s) if he played today instead of two decades ago",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.6473,
+    "probs": {
+      "analysis": 0.6473,
+      "hot_take": 0.2612,
+      "reaction": 0.0915
+    }
+  },
+  {
+    "text": "I don't think he even remotely comparable to someone like Steph Curry. The volume is just way too low.",
+    "true": "hot_take",
+    "pred": "reaction",
+    "confidence": 0.4768,
+    "probs": {
+      "analysis": 0.1676,
+      "hot_take": 0.3556,
+      "reaction": 0.4768
+    }
+  },
+  {
+    "text": "27/10/5b with typical divine defense. But still, I get your point. In a sense, Luka is being screwed by his own consistency. Averaging 28 in year 2 and not dipping thereafter will do that to you",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.465,
+    "probs": {
+      "analysis": 0.3354,
+      "hot_take": 0.465,
+      "reaction": 0.1996
+    }
+  },
+  {
+    "text": "Not trying to be a downer, but I had this injury and surgery at 24, and it was a year recovery. You can\u2019t even lift 10 pounds the first month for fear of internal bleeding. There\u2019s a chance this may be his career tbh.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4783,
+    "probs": {
+      "analysis": 0.2889,
+      "hot_take": 0.4783,
+      "reaction": 0.2328
+    }
+  },
+  {
+    "text": "One of the worst I\u2019ve ever seen. Ball never touched the court after about the half way line.",
+    "true": "reaction",
+    "pred": "analysis",
+    "confidence": 0.4444,
+    "probs": {
+      "analysis": 0.4444,
+      "hot_take": 0.3643,
+      "reaction": 0.1913
+    }
+  },
+  {
+    "text": "To call Luka unwatchable is a bit much. He\u2019s very good with the ball in his hands and way more active than Harden was during his dominance. The bitching at this point is an entertaining hate-watch.",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.459,
+    "probs": {
+      "analysis": 0.2795,
+      "hot_take": 0.459,
+      "reaction": 0.2615
+    }
+  },
+  {
+    "text": "I wish that there would be a single game, just one where he would shut his yap and would just play without constant whining.",
+    "true": "reaction",
+    "pred": "hot_take",
+    "confidence": 0.4068,
+    "probs": {
+      "analysis": 0.2547,
+      "hot_take": 0.4068,
+      "reaction": 0.3386
+    }
+  },
+  {
+    "text": "I didn't say it doesn't count. I was providing context as to why they lost. It was definitely a bad loss. They also went up against us and the Lakers. Their 0-4 record doesn't really tell the full story. Same as the Mavs great record against the East",
+    "true": "analysis",
+    "pred": "analysis",
+    "confidence": 0.5702,
+    "probs": {
+      "analysis": 0.5702,
+      "hot_take": 0.3224,
+      "reaction": 0.1074
+    }
+  },
+  {
+    "text": "Spo finds rotation players out of nothing basically every year. Kerr is not very good at doing that",
+    "true": "hot_take",
+    "pred": "hot_take",
+    "confidence": 0.4663,
+    "probs": {
+      "analysis": 0.3406,
+      "hot_take": 0.4663,
+      "reaction": 0.1931
+    }
+  },
+  {
+    "text": "Is Kawhi the greatest scam artist in history? Hundreds of millions of dollars robbed with no repercussions lol. Genuinely the funniest NBA career arc ever",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5532,
+    "probs": {
+      "analysis": 0.15,
+      "hot_take": 0.2968,
+      "reaction": 0.5532
+    }
+  },
+  {
+    "text": "And when they played top 4 seeds in either conference I think they went 3-11",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.4122,
+    "probs": {
+      "analysis": 0.3763,
+      "hot_take": 0.4122,
+      "reaction": 0.2115
+    }
+  },
+  {
+    "text": "I would say that Chris Bosh was a much better player overall than Evan Mobley. I think the comparison with Kevin Love is more apt. I would say that Mobley is roughly equivalent to K Love. Where Love was a primarily offense-first player, Mobley is a primarily defense-first player. But I would put them at roughly the same talent level.",
+    "true": "hot_take",
+    "pred": "analysis",
+    "confidence": 0.6376,
+    "probs": {
+      "analysis": 0.6376,
+      "hot_take": 0.2743,
+      "reaction": 0.0881
+    }
+  },
+  {
+    "text": "Bam & Kobe in the same headline. Alright Reddit, do your thing.",
+    "true": "reaction",
+    "pred": "reaction",
+    "confidence": 0.5823,
+    "probs": {
+      "analysis": 0.1365,
+      "hot_take": 0.2812,
+      "reaction": 0.5823
+    }
+  },
+  {
+    "text": "This is what small sample sizes look like. Mo Wagner is currently shooting 64% from 3 this year.",
+    "true": "analysis",
+    "pred": "hot_take",
+    "confidence": 0.3695,
+    "probs": {
+      "analysis": 0.3655,
+      "hot_take": 0.3695,
+      "reaction": 0.265
+    }
+  }
+]
